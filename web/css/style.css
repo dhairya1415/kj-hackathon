@@ -134,7 +134,7 @@ button#showLeftPush:hover {
 	position: relative;
 }
 .cbp-spmenu-push-toright {
-	left: 0;
+  left: 0;
 }
 /* Transitions */
 
@@ -145,7 +145,7 @@ button#showLeftPush:hover {
 	transition: all 0.3s ease;
 }
 .cbp-spmenu-push div#page-wrapper {
-    /* margin: 0 0 0 13.5em; */
+  margin: 0 0 0 13.5em; 
 	transition:.5s all;
 	-webkit-transition:.5s all;
 	-moz-transition:.5s all;
